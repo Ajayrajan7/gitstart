@@ -1,0 +1,19 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "form upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ajay",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.580.0",
+    "busboy": "^0.3.1",
+    "busboy-body-parser": "^0.3.2",
+    "connect-busboy": "0.0.2",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
